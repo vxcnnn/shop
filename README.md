@@ -24,9 +24,9 @@
 ```
 - **Daily Items:** `daily1` to `daily6`
 - **Featured Items:** `featured1` to `featured4`
-- **ItemType:** 'replace ItemType with the type of cosmetic, example: "AthenaCharacter:"
-- **Price:** 'change "PRICEHERE" to your preferred price, it could be free (make it 0) or 500
-- **CosmeticID:** 'change "CosmeticID" to your preferred ID (must match the ItemType), example: "CID_083_Athena_Commando_F_Tactical"
+- **ItemType:** 'replace ItemType with the type of cosmetic, example: "AthenaCharacter:"'
+- **Price:** 'change "PRICEHERE" to your preferred price, it could be free (make it 0) or 500'
+- **CosmeticID:** 'change "CosmeticID" to your preferred ID (must match the ItemType), example: "CID_083_Athena_Commando_F_Tactical"'
   
 ## Cosmetic ID Formatting
 
