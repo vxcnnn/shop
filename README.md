@@ -2,7 +2,7 @@
 > **Tip:** All Fortnite cosmetics can be found at [Fortnite.GG/cosmetics](https://fortnite.gg/cosmetics)
 ## Requirements for Cosmetics
 
-- **Version:** Must be from Chapter 2 Season 4 (Version 14.40) or earlier.
+- **Version:** Must be from Chapter 2 Season 5 (Version 15.30) or earlier.
 - **Pricing:** I dont care about the price, just make it reasonable (or free)
 - **Cosmetic ID:** Must follow the correct format (see below).
 
@@ -53,7 +53,7 @@ ItemType:CosmeticID
 
 - **No Quotes:** Always put cosmetic IDs in double quotes.
 - **Comma Errors:** Write numbers without commas (e.g., use `1200` not `1,200`).
-- **Wrong Versions:** Do not use cosmetics from after Chapter 2 Season 4.
+- **Wrong Versions:** Do not use cosmetics from after Chapter 2 Season 5.
 
 ## Tips
 
