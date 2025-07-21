@@ -10,16 +10,66 @@
 ```json
 {
     "//": "BR Item Shop Config",
-    "daily1": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "daily2": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "daily3": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "daily4": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "daily5": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "daily6": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "featured1": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "featured2": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "featured3": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE},
-    "featured4": {"itemGrants": ["ItemType:CosmeticID"], "price": PRICEHERE}
+    "daily1": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    },
+    "featured4": {
+        "itemGrants": [
+            "AthenaTYPE:ID-HERE"
+        ],
+        "price": PRICEHERE
+    }
 }
 ```
 - **Daily Items:** `daily1` to `daily6`
